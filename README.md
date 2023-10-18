@@ -1,2 +1,2 @@
 # legal
-ntop Legal Documents
+This repository contains public ntop documents
