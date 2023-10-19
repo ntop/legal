@@ -31,11 +31,11 @@ Signing
 -------
 If you have a Google account, you can sign this agreement by [filling and submitting this form](https://forms.gle/PKWPE6RsRDDUATGo8). Otherwise, you can print this form, fill in the fields below, scan it and send it to [legal@ntop.org](mailto:legal@ntop.org).
 
-Full Name      _______________________
+Full Name      Yoshihiro Ishikawa
 
-Email           _______________________
+Email           yoshihiro_i@jtc-i.co.jp
 
-GitHub Account  _______________________
+GitHub Account  Yoshihiro-jp
 
 
 
